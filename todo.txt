@@ -1,0 +1,2 @@
+
+1. Make PHP backend that spiders the local image urls and basically copies their content forward.
